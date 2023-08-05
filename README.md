@@ -6,9 +6,6 @@ Mainly working with React and TypeScript
 ## 🎮 Pet Projects
 Most of my pet projects are related to Game Development  
 Whenever I have a free weekend I'm trying to find a game jam and come up with something cool in 48 hours  
-As of now, I participated in 5 different Jams, you can check the games on my [itch.io](https://lockd.itch.io/) page  
-
-Here are the games for which I can freely share code:
 
 ### 🦖 Dino's Nightmare
 That is the first game project that I have ever completed.  
@@ -42,3 +39,5 @@ Think "Neighbours from Hell" but vice-versa and cute 😂
 [📝 Check out repo](https://github.com/Lockd/gmtk2023/tree/main)  
 [🕹️ Play in your browser](https://ldrg.itch.io/gentleghost)  
 <br />
+
+More games available on my [itch page](https://lockd.itch.io/)
