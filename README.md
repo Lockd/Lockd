@@ -1,5 +1,5 @@
 ### 👋 Heya, my name is Grigorii Pika
-I am a Software Engineer located in Izmir, Turkey  
+I am a Software Engineer located in Munich, Germany  
 Mainly working with React and TypeScript  
 [Here](https://www.linkedin.com/in/grigorii-pika/) is my Linkedin, you can learn more about my skills and day job there
 
